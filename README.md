@@ -11,7 +11,7 @@
 - To avoid softlocked, Turn off `Kill Aura` while doing Quest.
 
 ## Disable logs
-- Download script [log.bat](https://github.com/saefulbarkah/fun-games/blob/main/log.bat)
+- Download script [log.bat](https://github.com/Alisa-Mikhailovna/Wuwa-Mod-pak/blob/main/log.bat)
 - Put `log.bat` to location `Wuthering Waves\Wuthering Waves Game\Client\Saved`
 - Right click on `log.bat` run as admin.
 
