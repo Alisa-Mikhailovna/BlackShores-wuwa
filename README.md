@@ -4,6 +4,17 @@
 
 ## Come Join Discord Server
 
+# 2.0.4
+![modui](https://github.com/user-attachments/assets/c7bcd90c-d8ce-41a7-b6b9-71cdde7c86f5)
+
+## READ THIS BEFORE USE
+- To avoid softlocked, Turn off `Kill Aura` while doing Quest.
+
+## Disable logs
+- Download script [log.bat](https://github.com/saefulbarkah/fun-games/blob/main/log.bat)
+- Put `log.bat` to location `Wuthering Waves\Wuthering Waves Game\Client\Saved`
+- Right click on `log.bat` run as admin.
+
 ## Credit
 - Alya
 - Xoph
