@@ -5,7 +5,7 @@
 ## Come Join Discord Server
 
 # 2.0.5
-![modui](https://github.com/user-attachments/assets/c7bcd90c-d8ce-41a7-b6b9-71cdde7c86f5)
+![modui](https://github.com/user-attachments/assets/03edf240-d03b-4a54-9e25-c1582bbd4065)
 
 ## READ THIS BEFORE USE
 - To avoid softlocked, Turn off `Kill Aura` while doing Quest.
