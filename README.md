@@ -1,6 +1,6 @@
 | Donate | Support |
 |-------|------|
-| [![Static Badge](https://img.shields.io/badge/myKOFi-pink)](https://ko-fi.com/alyamasha) | [![Static Badge](https://img.shields.io/badge/Discord-blue)](https://discord.gg/yg35E6JQem) |
+| [![Support Me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alyamasha) | [![Discord Shield](https://discord.com/api/guilds/1330497624482123818/widget.png?style=shield)](https://discord.gg/blackshores) |
 
 ## Come Join Discord Server
 
@@ -9,8 +9,3 @@
 
 ## READ THIS BEFORE USE
 - To avoid softlocked, Turn off `Kill Aura` while doing Quest.
-
-## Disable logs
-- Download script [log.bat](https://github.com/Alisa-Mikhailovna/Wuwa-Mod-pak/blob/main/log.bat)
-- Put `log.bat` to location `Wuthering Waves\Wuthering Waves Game\Client\Saved`
-- Right click on `log.bat` run as admin.
